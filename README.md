@@ -27,4 +27,4 @@ https://docs.opencv.org/3.4.1/d7/d9f/tutorial_linux_install.html
   ./<your_executable_file_name> --camera=0 --face_cascade=/home/<username>/opencv-3.4.1/data/haarcascades/haarcascade_frontalface_alt.xml 
                                 --eyes_cascade=/home/<username>/opencv-3.4.1/data/haarcascades/haarcascade_frontalface_alt.xml
 
-- A window will display (by camera screen) and you will see the miracle. Cheers!
+- A window will display (by your laptop camera perspectives) and you will see the miracle. Cheers!
